@@ -1,0 +1,24 @@
+d_id:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+name:
+- 'Technology '
+- 'Hardware '
+- HR
+- R&D
+- Business
+manager_id:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+headquarters_address_id:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
